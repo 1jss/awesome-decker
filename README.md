@@ -11,7 +11,7 @@ This is a collection of awesome Decker projects (decks) and related reasources. 
 - [Mac OS and Windows Binaries](https://internet-janitor.itch.io/decker)
 
 ## Fonts
-- [Custom Fonts by 1jss](https://github.com/1jss/decker-fonts)
+- [Fonts Collection](https://github.com/1jss/decker-fonts)
 - [Monospace Fonts by ktye](https://github.com/ktye/i/blob/master/_/i2/kui/f/fonts.deck)
 
 ## Installation
