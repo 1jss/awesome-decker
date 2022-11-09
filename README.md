@@ -7,6 +7,17 @@ This is a collection of awesome Decker projects (decks) and related reasources. 
 ## Official Resouces
 - [Decker Tour (deck)](https://beyondloom.com/decker/tour.html)
 - [Example Decks](https://github.com/JohnEarnest/Decker/tree/main/examples/decks)
+  - chickenwave.deck
+  - cylon.deck
+  - draggable.deck
+  - fontedit.deck
+  - graphpad.deck
+  - guis.deck
+  - life.deck
+  - plot.deck
+  - publictransit.deck
+  - tour.deck
+  - transit.deck
 - [Reference Manual](https://beyondloom.com/decker/decker.html)
 - [Mac OS and Windows Binaries](https://internet-janitor.itch.io/decker)
 
