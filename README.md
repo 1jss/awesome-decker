@@ -56,7 +56,10 @@ Card transition editor
 ![Transit](images/transit.png)
 
 ## Games
-- [Flappybird](https://github.com/razetime/decks) by [razetime](https://github.com/razetime) 
+
+### [Flappybird](https://github.com/razetime/decks) by [razetime](https://github.com/razetime) 
+![Flappybird](images/flappybird.png)
+
 ## Fonts
 - [Fonts Collection](https://github.com/1jss/decker-fonts)
 - [Monospace Fonts](https://github.com/ktye/i/blob/master/_/i2/kui/f/fonts.deck) by [ktye](https://github.com/ktye)
