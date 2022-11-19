@@ -13,7 +13,7 @@ This is a collection of awesome Decker projects (decks) and related reasources. 
 The following Decks are [Example Decks](https://github.com/JohnEarnest/Decker/tree/main/examples/decks) from the Decker repository by [John Earnest](https://github.com/JohnEarnest)
 
 ### Chickenwave
-Chicken dancind to music (animation demo)
+Chicken dancing to music (animation demo)
 ![chickenwave](images/chickenwave.png)
 
 ### Cylon
