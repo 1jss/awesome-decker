@@ -13,7 +13,7 @@ This is a collection of awesome Decker projects (decks) and related reasources. 
 The following Decks are [Example Decks](https://github.com/JohnEarnest/Decker/tree/main/examples/decks) from the Decker repository by [John Earnest](https://github.com/JohnEarnest)
 
 ### Chickenwave
-Dancing chicken
+Chicken dancind to music (animation demo)
 ![chickenwave](images/chickenwave.png)
 
 ### Cylon
@@ -26,7 +26,7 @@ Tutorial of draggable canvas (also contains "rect" module)
 ![Draggable](images/draggable-2.png)
 
 ### Fontedit
-Font editor
+Font editor (import fonts into other decks by drag and drop)
 ![Fontedit](images/fontedit.png)
 
 ### Graphpad
@@ -66,3 +66,6 @@ Card transition editor
 
 ## Installation
 - [Installing on Linux](https://github.com/1jss/decker-linux)
+
+## Code snippets
+- [Decker Snippets Collection](https://github.com/1jss/decker-snippets) by [1jss](https://github.com/1jss) 
